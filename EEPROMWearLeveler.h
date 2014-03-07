@@ -2,6 +2,7 @@
   EEPROMWearLeveler.h
   Created by Nabil Tewolde, May 14, 2012.
   Released into the public domain.
+  Modified by Michael Moring, March 7, 2014.
 */
 
 #ifndef EEPROMWearLeveler_h

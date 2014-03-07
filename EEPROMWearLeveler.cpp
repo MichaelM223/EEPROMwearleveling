@@ -2,7 +2,7 @@
  *  EEPROMWearLeveler.cpp
  *  Created by Nabil Tewolde, May 14, 2012.
  *  Released into the public domain.
- *
+ *  Modified by Michael Moring, March 7, 2014.
  *  This library performs EEPROM wear leveling by spreading out writes across
  *  multiple address by following the techniques documented by Atmel
  *  (http://www.atmel.com/Images/doc2526.pdf). It is not memory efficient,
