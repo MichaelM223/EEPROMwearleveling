@@ -14,7 +14,7 @@ void setup(void){
   if(ReadLongEEPROM(1) == 1234567890){
     Serial.print("Long read/write OK!");
   }else{
-    Serial.print("Long read/write OK!");
+    Serial.print("Long read/write FAIL!");
   }
 }
 
